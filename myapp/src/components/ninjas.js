@@ -14,7 +14,7 @@ class Ninjas extends Component {
       )
     });
     return (
-      <div className="ninja-list">
+      <div className="ninja-list"> 
         {ninjaList}
       </div>
     )
